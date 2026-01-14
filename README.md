@@ -1,16 +1,16 @@
-## Hi there 👋
+# Szia, Kohlbauer Martin vagyok! 👋
 
-<!--
-**APXKingfisher/APXKingfisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Full Stack fejlesztőként célom, hogy modern, MI-vel támogatott üzleti megoldásokat építsek. A bootcamp során megtanultam a csapatmunka és a tiszta kód fontosságát, a Gábor Dénes Egyetemen pedig az MI alapjaival bővítettem a tudásomat.
 
-Here are some ideas to get you started:
+### 🛠 Technikai eszköztáram:
+- **Backend:** Java, Maven, Spring Boot, SQL (MySQL, PostgreSQL)
+- **Frontend:** Angular, TypeScript, HTML5, SCSS/CSS
+- **Integrációk:** Google Gemini API, Google Maps & Calendar API
+- **Eszközök:** Git, IntelliJ IDEA, Postman, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Kiemelt projektjeim:
+- **Travel Agency ERP:** Komplex utazásszervező rendszer Angular és Java alapokon.
+- **School Feedback & Workspace:** Oktatási segédalkalmazás Gemini MI integrációval.
+
+---
+📫 **Elérhetőség:** https://www.linkedin.com/in/martin-kohlbauer-b74546354/
