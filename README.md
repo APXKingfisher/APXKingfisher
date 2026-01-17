@@ -9,6 +9,7 @@ Junior Java Full Stack fejlesztőként célom, hogy modern, MI-vel támogatott �
 - **Eszközök:** Git, IntelliJ IDEA, Postman, Docker
 
 ### 🚀 Kiemelt projektjeim:
+- **E-Storing:** Komplex raktározási és készletgazdálkodási rendszer Angular és Java alapokon.
 - **Travel Agency ERP:** Komplex utazásszervező rendszer Angular és Java alapokon.
 - **School Feedback & Workspace:** Oktatási segédalkalmazás Gemini MI integrációval.
 
